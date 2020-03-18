@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/BrandyBecker/ApiScratchTutorial/issues"
   },
-  "homepage": "https://github.com/BrandyBecker/ApiScratchTutorial#readme"
+  "homepage": "https://github.com/BrandyBecker/ApiScratchTutorial#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "knex": "^0.20.11",
+    "sqlite3": "^4.1.1"
+  }
 }
